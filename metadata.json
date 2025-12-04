@@ -1,0 +1,7 @@
+{
+  "name": "Belfast Stride",
+  "description": "A smart walkability assistant for Belfast featuring UTCI thermal comfort analysis, population density insights, and AI-optimized routing for leisure, speed, and transit.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
